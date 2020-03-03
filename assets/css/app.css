@@ -1,0 +1,27 @@
+html, body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+#page-wrapper {
+	min-height: 550px;
+}
+
+a {
+	cursor: pointer;
+}
+
+.total-amount {
+	text-align: right;
+}
+
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+    max-height: 400px;
+}
+
+img.img-product {
+	max-height: 300px;
+}
+
+img.img-product-sm {
+	max-height: 50px;
+}
